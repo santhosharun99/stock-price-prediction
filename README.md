@@ -17,9 +17,7 @@ The dataset consists of three CSV files:
 - `sp500_stocks.csv`: Historical stock data.
 - `sp500_index.csv`: S&P500 index values.
 - `sp500_companies.csv`: Financial information about S&P500 companies.
-- `bidirectional_lstm_model.ipynb`: Jupyter Notebook containing the code for data preprocessing, model training, evaluation, and visualization.
-- `bidirectional_lstm_model.h5`: Saved Bidirectional LSTM model.
-- `bidirectional_lstm_model_history.json`: JSON file containing the training history of the model.
+- `stock prediction.ipynb`: Jupyter Notebook containing the code for data preprocessing, model training, evaluation, and visualization.
 - `README.md`: Overview of the project and instructions.
 
 
@@ -46,6 +44,3 @@ The model is evaluated using the following metrics:
 
 A visualization is provided to compare the actual and predicted S&P500 values.
 
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
